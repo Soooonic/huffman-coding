@@ -1,0 +1,7 @@
+Encoding: 
+a: 10
+b: 0
+c: 11
+Decoding: aaabcbcaca
+Orginal size : 20
+Compression size: 18
